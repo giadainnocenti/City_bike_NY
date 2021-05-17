@@ -6,6 +6,7 @@ In the jupyter notebook reported in this repository all the csv for the period o
 2. all the people that identified as unknown gender were dropped.
 \
 Finding trends in this case was not very easy since NY was in a severe lockdown for most of the last year and as a consequence I believe the use of the bike share was somehow impacted with respect to previous years.\
+\
 The main trends observed are:
 * female users are using the bike for the longest time on average, specifically female individuals that were born between 1995 and 2004 are traveling the longest.
 * Some stations do NOT have any female user as end destination.
